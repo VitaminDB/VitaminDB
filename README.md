@@ -10,21 +10,24 @@ ML inference stack and a GPU-rendered GUI framework, both without a Python runti
 
 ### Projects
 
-**[syngui](https://github.com/vitamindb/syngui)** — a retained-mode GUI framework
-in Rust (~112k lines). wgpu rendering, an own text stack (shaping, glyph atlas,
-color emoji), a CSS-like styling language with cascade and animations, 70+ widgets
-(terminal, code editor, charts, tables, video). Runs on desktop, Android, and
-WebAssembly. MIT / Apache-2.0.
+**[synthos](https://github.com/VitaminDB/synthos)** — a local AI desktop studio
+(~143k lines): an agentic chat that runs 27B–125B models from single-file bundles, a
+block-based notes workspace (canvas, kanban, Gantt, mind maps, calendar), a node
+editor for video / music / speech generation, a code editor and a local knowledge
+base. Everything on-device, no Python. MIT / Apache-2.0.
 
-**synaptix** — a native Rust engine for running and training models: an alternative
-to the Python ML stack, no PyTorch, no Python runtime. Custom CUDA kernels via NVRTC
-with NVFP4 / MXFP8 quantization, checked bit-for-bit against reference
-implementations. Runs LLMs, image and video diffusion, and speech models locally on
-a single GPU. *(open-sourcing soon)*
+**[synaptix](https://github.com/VitaminDB/synaptix)** — a native Rust engine for
+running and training models (~232k lines, 1800+ tests): an alternative to the Python
+ML stack, no PyTorch, no Python runtime. Hand-written CUDA kernels via NVRTC with
+NVFP4 / MXFP8 quantization, checked bit-for-bit against reference implementations.
+Gemma-4 26B at 210 tok/s decode, a 125B MoE with a 262k context on a 24 GB laptop
+card. MIT / Apache-2.0.
 
-**synthos** — a desktop AI workstation built on syngui and synaptix, and the code
-editor I use daily: node-based pipelines, chat, speech-to-text, text-to-speech,
-diarization, and local retrieval. *(soon)*
+**[syngui](https://github.com/VitaminDB/syngui)** — a retained-mode GUI framework in
+Rust (~166k lines). wgpu rendering, an own text stack (shaping, glyph atlas, color
+emoji), a CSS-like styling language with cascade and animations, 110+ widgets
+(terminal, code editor, block document editor, charts, tables, video). Runs on
+desktop, Android, and WebAssembly. MIT / Apache-2.0.
 
 Earlier commercial work: a central-heating controller with a custom architecture and
 GSM-OTA bootloader (in production for years), and a Qt/C++ SPI-flash recovery tool
@@ -44,3 +47,6 @@ and profile my own work and report the real numbers, including where it loses.
 ### Contact
 
 Email — vitamindbnfkz@gmail.com
+
+If any of this is useful to you, you can support the work via
+[PayPal](https://paypal.me/vitamindbnfkz).
