@@ -37,5 +37,5 @@ benchmarked and profiled on real hardware, and the READMEs report where it loses
 
 ### Contact
 
-[X / Twitter](https://x.com/alexeyev_vitaly) · vitamindbnfkz@gmail.com ·
+[alexeyev.dev](https://alexeyev.dev/) · [X / Twitter](https://x.com/alexeyev_vitaly) · vitamindbnfkz@gmail.com ·
 support the work via [PayPal](https://paypal.me/vitamindbnfkz)
