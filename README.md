@@ -6,10 +6,9 @@ open to remote work or relocation.
 [alexeyev.dev](https://alexeyev.dev/) · [LinkedIn](https://www.linkedin.com/in/vitaly-alexeyev-08546b21b/) ·
 [X / Twitter](https://x.com/alexeyev_vitaly) · vitamindbnfkz@gmail.com
 
-**Everything below is vibe-coded.** Since spring 2026 I write all of my projects with
-[Claude Code](https://claude.com/claude-code): I decide what to build and how it fits together, describe each
-task, and review, run and measure the result on my own hardware — the model writes the code. The numbers in each
-README are measured on my machine, not taken on the model's word.
+Since spring 2026 I have been working in [Claude Code](https://claude.com/claude-code). That is how a CUDA
+inference engine, a GUI framework, an AI studio and a Wayland desktop came about in half a year. Every number in
+each README is measured on my own hardware, not taken on the model's word.
 
 ### My own stack
 
