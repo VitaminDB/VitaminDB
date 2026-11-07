@@ -6,9 +6,8 @@ open to remote work or relocation.
 [alexeyev.dev](https://alexeyev.dev/) · [LinkedIn](https://www.linkedin.com/in/vitaly-alexeyev-08546b21b/) ·
 [X / Twitter](https://x.com/alexeyev_vitaly) · vitamindbnfkz@gmail.com
 
-Since spring 2026 I have been working in [Claude Code](https://claude.com/claude-code). That is how a CUDA
-inference engine, a GUI framework, an AI studio and a Wayland desktop came about in half a year. Every number in
-each README is measured on my own hardware, not taken on the model's word.
+Every number in each README is measured on my own hardware, and each one lists what does not work yet next to
+what does. Developed with the help of [Claude Code](https://claude.com/claude-code).
 
 ### My own stack
 
