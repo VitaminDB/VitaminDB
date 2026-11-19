@@ -4,7 +4,7 @@ Systems engineer — Rust, GPU/CUDA, ML inference, Linux desktop and phones. Bas
 open to remote work or relocation.
 
 [alexeyev.dev](https://alexeyev.dev/) · [LinkedIn](https://www.linkedin.com/in/vitaly-alexeyev-08546b21b/) ·
-[X / Twitter](https://x.com/alexeyev_vitaly) · vitamindbnfkz@gmail.com
+[X / Twitter](https://x.com/alexeyev_vitaly) · [YouTube](https://www.youtube.com/@alexeyev_dev) · vitamindbnfkz@gmail.com
 
 Every number in each README is measured on my own hardware, and each one lists what does not work yet next to
 what does. Developed with the help of [Claude Code](https://claude.com/claude-code).
